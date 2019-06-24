@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I am LetHugo</title>
+    <link>https://HuChanghong.github.io/</link>
+    <description>Recent content on I am LetHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Mon, 24 Jun 2019 22:05:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://HuChanghong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://HuChanghong.github.io/2019/06/24/first/</link>
+      <pubDate>Mon, 24 Jun 2019 22:05:13 +0800</pubDate>
+      
+      <guid>https://HuChanghong.github.io/2019/06/24/first/</guid>
+      <description>一、Markdown 是什么？  二、印象笔记里 Markdown 有什么特点？ 三、如何创建 Markdown 笔记？ 四、印象笔记 Markdown 笔记支持哪些语法？ 设置分级标题  一级标题
+ 二级标题 三级标题  四级标题 五级标题  六级标题   加粗文本 斜体 下划线 删除线 添加分隔线 引用文本 添加符号列表或者数字列表 添加待办事项 插入链接 插入图片 插入表格 插入图表 插入行内代码或代码块 插入数学公式 插入流程图 插入时序图 插入甘特图 设置目录 五、印象笔记 Markdown 支持什么快捷键？ &amp;gt;本文内容来自印象笔记官网,版权归印象笔记官方所有.原文链接:印象笔记Markdown入门指南
+此处仅对印象笔记Markdown的用法做一些粗浅的学习,本文的格式完全采用GFM标准.
+一、Markdown 是什么？  Markdown 是一种轻量级的「标记语言」，创始人为约翰·格鲁伯，用简洁的语法代替排版，目前被越来越多的知识工作者、写作爱好者、程序员或研究员广泛使用。其常用的标记符号不超过十个，相对于更为复杂的 HTML 标记语言来说，Markdown 十分的轻量，学习成本也不需要太多，且一旦熟悉这种语法规则，会有沉浸式编辑的效果。
+    印象笔记 Markdown 支持 CommonMark 和 GFM (GitHub Flavored Markdown) 标准。</description>
+    </item>
+    
+  </channel>
+</rss>

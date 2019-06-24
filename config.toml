@@ -1,0 +1,71 @@
+
+BaseUrl= "https://HuChanghong.github.io/"
+LanguageCode= "zh-cn"
+Title= "I am LetHugo"
+theme = "casper"
+paginate = 5
+DisqusShortname = "LetHugo"  # name in comments
+Copyright = "All rights reserved - 2019"
+canonifyurls = true
+
+[params]
+  description = "会成为最伟大的程序员"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/boy_bicycle.jpg"
+  author = "HuChanghong"
+  authorlocation = "Wuxi, China"
+  authorwebsite = "www.lethugo.com"
+  authorbio= "Every man dies, not every man really lives."
+  logo = "images/author_img.jpg"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "HuChanghong"
+  email = "583322214@qq.com"
+  # twitterName = ""
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "atom-one-light"
+
+  [params.social]
+    twitter = ""
+
+[[menu.main]]
+  name = "Home"
+  weight = -1
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "Machine Learning"
+  weight = -2
+  identifier = "ml"
+  url = "/tags/machine-learning"
+
+[[menu.main]]
+  name = "Others"
+  weight = -3
+  identifier = "other"
+  url = "/tags/others"
+
+[[menu.main]]
+  name = "About"
+  weight = -4
+  identifier = "about"
+  url = "/about"
+
+  [permalinks]
+  post = "/:year/:month/:day/:title/"
