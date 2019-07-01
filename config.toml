@@ -9,7 +9,7 @@ Copyright = "All rights reserved - 2019"
 canonifyurls = true
 
 [params]
-  description = "会成为最伟大的程序员"
+  description = "会成为伟大的程序员"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/boy_bicycle.jpg"
   author = "HuChanghong"
