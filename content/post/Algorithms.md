@@ -1,7 +1,10 @@
 ---
 title: "Algorithms"
 date: 2019-07-02T14:37:30+08:00
-draft: true
+draft: false
+tags: ["Python","Algorithms"]
+comments: true
+share: true
 ---
 
 

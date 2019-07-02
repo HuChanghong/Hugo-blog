@@ -50,16 +50,16 @@ canonifyurls = true
   url = "/"
 
 [[menu.main]]
-  name = "Machine Learning"
+  name = "Algorithms"
   weight = -2
-  identifier = "ml"
-  url = "/tags/machine-learning"
+  identifier = "algorithms"
+  url = "/tags/Algorithms"
 
 [[menu.main]]
-  name = "Others"
+  name = "Python"
   weight = -3
-  identifier = "other"
-  url = "/tags/others"
+  identifier = "python"
+  url = "/tags/Python"
 
 [[menu.main]]
   name = "About"

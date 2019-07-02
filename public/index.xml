@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
-    <lastBuildDate>Mon, 24 Jun 2019 22:05:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 14:37:30 +0800</lastBuildDate>
     
 	<atom:link href="https://HuChanghong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://HuChanghong.github.io/2019/07/02/algorithms/</link>
+      <pubDate>Tue, 02 Jul 2019 14:37:30 +0800</pubDate>
+      
+      <guid>https://HuChanghong.github.io/2019/07/02/algorithms/</guid>
+      <description>[TOC]
+Algorithms In this notebook, you will learn the following:
+ Big O Notation Recursion  Fibonacci Binary Search   Array, List, String, Set, Dictionary List Dictionary 这些都可以看做是一个数据的容器，他们存储数据的方式有不同。 对于数据，我们常用的操作有，插入、删除、查找 等。 不同的存储方式会导致在做这些操作的时候，时间上会有差别。这就是数据结构。
+那么什么是算法？如何评估算法？
+算法就是解决问题
+ 问题是什么 Problem 我们有什么 Input 我们想要得到什么 Output 尝试最简单的方法 Simple Solution 看看如何改进 Develop Incrementally  Algorithm Analysis
+   时间复杂度 表示     constent O(1)   logarithmic O(log(n))   linear O(n)   log linear O(n*log(n))   quadratic O(n^2)   cubic O(n^3)   exponential O(2^n)    Big O Notation 大O表示法</description>
+    </item>
     
     <item>
       <title>First</title>

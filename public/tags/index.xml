@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Tue, 02 Jul 2019 14:37:30 +0800</lastBuildDate>
     
 	<atom:link href="https://HuChanghong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://HuChanghong.github.io/tags/algorithms/</link>
+      <pubDate>Tue, 02 Jul 2019 14:37:30 +0800</pubDate>
+      
+      <guid>https://HuChanghong.github.io/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://HuChanghong.github.io/tags/python/</link>
+      <pubDate>Tue, 02 Jul 2019 14:37:30 +0800</pubDate>
+      
+      <guid>https://HuChanghong.github.io/tags/python/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
