@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 14:37:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2019 16:53:28 +0800</lastBuildDate>
     
 	<atom:link href="https://HuChanghong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LearnGit</title>
+      <link>https://HuChanghong.github.io/2019/07/06/learngit/</link>
+      <pubDate>Sat, 06 Jul 2019 16:53:28 +0800</pubDate>
+      
+      <guid>https://HuChanghong.github.io/2019/07/06/learngit/</guid>
+      <description>本文内容是对廖雪峰老师Git教程做的笔记,外加一些自己的学习心得,还抱着学以致用的心态来实践一番
+* Git学习笔记 * Git简介 * 安装Git * 创建版本库repository * 把文件添加到版本库 * 1.把文件添加到暂存区 * 2.把文件提交到版本库 * Git bash操作文件及文件夹命令 * 查看Git安装目录 * 时光穿梭机 * 版本退回 * 工作区和暂存区 * 掌握仓库当前的状态 * 查看修改内容 * 撤销修改 * 文件名里有空格和()的情况 * 删除文件 * 远程仓库 * 添加远程库 * 从远程库克隆 * 取消链接并删除本地库 * 分支管理 * 创建与合并分支 * 解决冲突 * 分支管理策略 * Bug分支 * Feature分支 * 多人协作 * rebase * 标签管理 * 创建标签 * 操作标签 * 关联多个远程库 * 自定义Git * 忽略特殊文件 * Windows下创建.</description>
+    </item>
     
     <item>
       <title>Algorithms</title>
